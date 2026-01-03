@@ -12,7 +12,7 @@ Trabajo final sobre cambio climatico hackaton
 >
 > GRUPO/INSTITUCIÓN: Koodland
 >
-> LIBRERÍAS NECESARIAS: discord.py , requests , gTTS
+> LIBRERÍAS NECESARIAS: discord.py , requests , gTTS , asyncio 
 >
-> 
+> REFERENCIAS: *DOCUMENTACIÓN DE DISCORD * :https://discordpy.readthedocs.io/ * *OpenWeatherMap API Documentation: https://openweathermap.org/api * Documentación de gTTS :https://pypi.org/project/gTTS/ * Documentación oficial de Python: https://docs.python.org/3/ *
 > 
