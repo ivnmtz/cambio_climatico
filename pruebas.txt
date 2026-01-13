@@ -1,0 +1,3 @@
+-Agregar la función para que el bot mande el archivo .mp3 del texto sobre los consejos del cambio climatico
+
+-Agregar también la función para que el bot pueda unirse a un canal de voz del servidor de discord y hablar en tiempo real con el usuario sobre los tips del cambio climatico
